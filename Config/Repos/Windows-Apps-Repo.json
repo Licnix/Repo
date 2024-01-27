@@ -2,7 +2,7 @@
     {
         "Repositories": [
             "https://raw.githubusercontent.com/HttpAnimation/FYC-Rewrite-V2/Repo/Windows-Apps-Repo.json",
-            "https://repoler.000webhostapp.com/Repos/Windows-Apps-Repo.json"
+            "https://raw.githubusercontent.com/Licnix/Repo/main/Windows-Apps-Repo.json"
         ]
     }
 ]
