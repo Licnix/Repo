@@ -1,0 +1,9 @@
+,
+        "Torrent name": {
+            "Name": "Torrent name",
+            ".Torrent": ".torrent",
+            "MagnetUrl": "magnet",
+            "Icon": "photo.png",
+            "HasStreamURL": false,
+            "StreamURL": "stream.mp4"
+        }
