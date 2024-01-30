@@ -42,7 +42,16 @@
               "Source": "https://1337x.to/torrent/4162844/Abominable-2019-BluRay-1080p-YTS-YIFY/",
               "HasStreamURL": true,
               "StreamURL": "https://uflix.cc/play/tt6324278"
-            }            
+            },
+            "Alice in Wonderland 1951": {
+              "Name": "Alice in Wonderland 1951",
+              ".Torrent": "Alice-in-Wonderland-1951.torrent",
+              "MagnetUrl": "magnet:?xt=urn:btih:FA23C3F58017D1322D27FA761118B2FC2177F730",
+              "Icon": "https://raw.githubusercontent.com/HttpAnimation/FYC/main/FYC%20Rewrite.ico",
+              "Source": "https://1337x.to/torrent/1081027/Alice-in-Wonderland-1951-1080p-BrRip-x264-YIFY/",
+              "HasStreamURL": true,
+              "StreamURL": "https://uflix.cc/play/tt0043274"
+            }          
         }
     }
 ]
