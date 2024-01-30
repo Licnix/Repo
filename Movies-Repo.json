@@ -60,7 +60,16 @@
               "Source": "https://1337x.to/torrent/4248865/All-Dogs-Go-to-Heaven-1989-BluRay-1080p-YTS-YIFY/",
               "HasStreamURL": true,
               "StreamURL": "https://uflix.cc/play/tt0096787"
-            }                                  
+            },
+            "Anastasia 1997": {
+              "Name": "Anastasia 1997",
+              ".Torrent": "http://itorrents.org/torrent/44A0972A3CDFF20BCC71476EB2FAA3E0977765EF.torrent",
+              "MagnetUrl": "magnet:?xt=urn:btih:44A0972A3CDFF20BCC71476EB2FAA3E0977765EF",
+              "Icon": "https://lx1.dyncdn.cc/cdn/d8/d8247a92c7a8e5837676bbe4e516c74a.jpg",
+              "Source": "https://1337x.to/torrent/3698684/Anastasia-1997-BluRay-1080p-YTS-YIFY/",
+              "HasStreamURL": true,
+              "StreamURL": "https://uflix.cc/play/tt0118617"
+            }                                              
         }
     }
 ]
