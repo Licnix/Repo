@@ -69,7 +69,16 @@
               "Source": "https://1337x.to/torrent/3698684/Anastasia-1997-BluRay-1080p-YTS-YIFY/",
               "HasStreamURL": true,
               "StreamURL": "https://uflix.cc/play/tt0118617"
-            }                                              
+            },
+            "Anon 2018 720p": {
+              "Name": "Anon 2018 720p",
+              ".Torrent": "http://itorrents.org/torrent/A65E36BDB40BCCA48B94EA28B28630A57DA3ADDA.torrent",
+              "MagnetUrl": "magnet:?xt=urn:btih:A65E36BDB40BCCA48B94EA28B28630A57DA3ADDA",
+              "Icon": "https://raw.githubusercontent.com/HttpAnimation/FYC/main/FYC%20Rewrite.ico",
+              "Source": "https://1337x.to/torrent/2972486/Anon-2018-720p-WEB-DL-x264-770MB-MP4/",
+              "HasStreamURL": true,
+              "StreamURL": "https://uflix.cc/play/tt5397194"
+            }                                                          
         }
     }
 ]
