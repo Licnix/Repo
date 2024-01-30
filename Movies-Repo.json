@@ -114,7 +114,16 @@
               "Source": "",
               "HasStreamURL": true,
               "StreamURL": "https://uflix.cc/play/tt0112431"
-            }                                                                                                       
+            },
+            "Baby Boy 2001": {
+              "Name": "Baby Boy 2001",
+              ".Torrent": "http://itorrents.org/torrent/0628493EB610C8972FA9C27AF5E65255A3F1F42B.torrent",
+              "MagnetUrl": "magnet:?xt=urn:btih:0628493EB610C8972FA9C27AF5E65255A3F1F42B",
+              "Icon": "https://raw.githubusercontent.com/HttpAnimation/FYC/main/FYC%20Rewrite.ico",
+              "Source": "",
+              "HasStreamURL": true,
+              "StreamURL": "https://uflix.cc/play/tt0255819"
+            }                                                                                                                   
         }
     }
 ]
