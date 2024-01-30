@@ -78,7 +78,16 @@
               "Source": "https://1337x.to/torrent/2972486/Anon-2018-720p-WEB-DL-x264-770MB-MP4/",
               "HasStreamURL": true,
               "StreamURL": "https://uflix.cc/play/tt5397194"
-            }                                                          
+            },
+            "Ant-Man and the Wasp Quantumania 2023 1080p": {
+              "Name": "Ant-Man and the Wasp Quantumania 2023 1080p",
+              ".Torrent": "http://itorrents.org/torrent/0D05E3F4402D25637A306527041A057E102197C3.torrent",
+              "MagnetUrl": "magnet:?xt=urn:btih:0D05E3F4402D25637A306527041A057E102197C3",
+              "Icon": "https://raw.githubusercontent.com/HttpAnimation/FYC/main/FYC%20Rewrite.ico",
+              "Source": "https://1337x.to/torrent/5628082/Ant-Man-and-the-Wasp-Quantumania-2023-1080p-WEBRip-1400MB-DD5-1-x264-GalaxyRG/",
+              "HasStreamURL": true,
+              "StreamURL": "https://uflix.cc/play/tt10954600",
+            }                                                                   
         }
     }
 ]
