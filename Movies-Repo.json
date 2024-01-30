@@ -33,7 +33,16 @@
                 "Icon": "https://cdn.discordapp.com/attachments/1194806896180342996/1195879491277426781/Untitled.jpeg?ex=65b59891&is=65a32391&hm=8180e38b984cbf48e744c7acd09c8368aba8118ae2f7feb18931bb831d137d83&",
                 "HasStreamURL": false,
                 "StreamURL": "stream.mp4"
-            }
+            },
+            "Abominable 2019": {
+              "Name": "Abominable 2019",
+              ".Torrent": "Abominable-2019.torrent",
+              "MagnetUrl": "magnet:?xt=urn:btih:8A83DE40FC438CBF4D9C99E02351D1BAF32D6DBA",
+              "Icon": "https://lx1.dyncdn.cc/cdn/35/35d625898dfb13f9825c04eaf3fc7b4b.jpg",
+              "Source": "https://1337x.to/torrent/4162844/Abominable-2019-BluRay-1080p-YTS-YIFY/",
+              "HasStreamURL": true,
+              "StreamURL": "https://uflix.cc/play/tt6324278"
+            }            
         }
     }
 ]
