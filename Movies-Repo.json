@@ -96,7 +96,16 @@
               "Source": "",
               "HasStreamURL": true,
               "StreamURL": "https://d2.s2dbest.to/a/m2/2021/Arlo.the.Alligator.Boy.2021.mp4?tok=3951706662355771673746486339564851356E7A724F3459645049554F4936326538456265356B516135483271333455584D4A45613137536E3858666B2D6C62434A624B7037466A6E3846764C31365055486F5164385633533548796637466A66356F494C4A6148564B70446439317A5734587975&valid=fc9DMyWu2nFGs7gd7_FjxQ&t=1686515215"
-            }                                                                               
+            },
+            "Asteroid City 2023": {
+              "Name": "Asteroid City 2023",
+              ".Torrent": "http://itorrents.org/torrent/8A7F53D96BD1481B5F1FC29CCB3F47CE91BD5C64.torrent",
+              "MagnetUrl": "magnet:?xt=urn:btih:8A7F53D96BD1481B5F1FC29CCB3F47CE91BD5C64",
+              "Icon": "https://raw.githubusercontent.com/HttpAnimation/FYC/main/FYC%20Rewrite.ico",
+              "Source": "",
+              "HasStreamURL": true,
+              "StreamURL": "https://uflix.cc/play/tt14230388"
+            }                                                                                           
         }
     }
 ]
