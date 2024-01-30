@@ -51,7 +51,16 @@
               "Source": "https://1337x.to/torrent/1081027/Alice-in-Wonderland-1951-1080p-BrRip-x264-YIFY/",
               "HasStreamURL": true,
               "StreamURL": "https://uflix.cc/play/tt0043274"
-            }          
+            },
+            "All Dogs Go to Heaven 1989": {
+              "Name": "All Dogs Go to Heaven 1989",
+              ".Torrent": "http://itorrents.org/torrent/8346CD45D791C11A9A12A1AC55B4F238AFFAC515.torrent",
+              "MagnetUrl": "magnet:?xt=urn:btih:8346CD45D791C11A9A12A1AC55B4F238AFFAC515",
+              "Icon": "https://raw.githubusercontent.com/HttpAnimation/FYC/main/FYC%20Rewrite.ico",
+              "Source": "https://1337x.to/torrent/4248865/All-Dogs-Go-to-Heaven-1989-BluRay-1080p-YTS-YIFY/",
+              "HasStreamURL": true,
+              "StreamURL": "https://uflix.cc/play/tt0096787"
+            }                                  
         }
     }
 ]
