@@ -1,3 +1,4 @@
+cd FYC-Rewrite-V2
 cd public
 rm 3DS-Repo.json
 rm EBook-Repo.json
