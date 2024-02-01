@@ -1,5 +1,7 @@
 cd FYC-Rewrite-V2
 cd public
+cd Configs
+cd Replers
 rm 3DS-Repo.json
 rm EBook-Repo.json
 rm Movie-Repo.json
