@@ -1,7 +1,7 @@
 ,
-        "Torrent name": {
-            "Name": "Torrent name",
-            ".Torrent": ".torrent",
+        "Name": {
+            "Name": "Name",
+            ".Torrent": "torrent",
             "MagnetUrl": "magnet",
             "Icon": "https://github.com/Licnix/Repo/blob/main/PHOTOHERE?raw=true",
             "Source": "WhereItComesFrom",
