@@ -3,6 +3,7 @@
             "Name": "Name",
             ".Torrent": "torrent",
             "MagnetUrl": "magnet",
+            "Description": "Description",
             "Icon": "https://github.com/Licnix/Repo/blob/main/PHOTOHERE?raw=true",
             "Source": "WhereItComesFrom",
             "HasStreamURL": false,
