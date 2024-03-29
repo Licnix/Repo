@@ -18,3 +18,4 @@ wget https://raw.githubusercontent.com/Licnix/Repo/main/Config/Repos/EBook-Repo.
 wget https://raw.githubusercontent.com/Licnix/Repo/main/Config/Repos/3DS-Repo.json
 wget https://raw.githubusercontent.com/Licnix/Repo/main/Config/Repos/Music-Repo.json
 wget https://raw.githubusercontent.com/Licnix/Repo/main/Config/Repos/Windows-Games-Repo.json
+wget https://raw.githubusercontent.com/Licnix/Repo/main/Config/Repos/macOS-repo.json
